@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/artem/projects/work1/build",
+  "command": "/usr/bin/gcc  -I/home/artem/projects/work1/inih-master/cpp -g -o CMakeFiles/inih_library.dir/inih-master/ini.c.o -c /home/artem/projects/work1/inih-master/ini.c",
+  "file": "/home/artem/projects/work1/inih-master/ini.c",
+  "output": "CMakeFiles/inih_library.dir/inih-master/ini.c.o"
+},
+{
+  "directory": "/home/artem/projects/work1/build",
+  "command": "/usr/bin/g++  -I/home/artem/projects/work1/inih-master/cpp -g -o CMakeFiles/inih_library.dir/inih-master/cpp/INIReader.cpp.o -c /home/artem/projects/work1/inih-master/cpp/INIReader.cpp",
+  "file": "/home/artem/projects/work1/inih-master/cpp/INIReader.cpp",
+  "output": "CMakeFiles/inih_library.dir/inih-master/cpp/INIReader.cpp.o"
+},
+{
+  "directory": "/home/artem/projects/work1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/work1.dir/main.cpp.o -c /home/artem/projects/work1/main.cpp",
+  "file": "/home/artem/projects/work1/main.cpp",
+  "output": "CMakeFiles/work1.dir/main.cpp.o"
+}
+]

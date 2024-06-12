@@ -1,0 +1,6 @@
+# ninja log v5
+0	131	1700479451562270497	CMakeFiles/inih_library.dir/inih-master/ini.c.o	10fa515bfb652062
+4	839	1700479452266277218	CMakeFiles/inih_library.dir/inih-master/cpp/INIReader.cpp.o	1599bb3036d9a441
+0	1008	1700479452438278859	CMakeFiles/work1.dir/main.cpp.o	ade07ccbf0744f7a
+840	1079	1700479452510279546	libinih_library.a	8b17b17144c3f2d2
+1079	1236	1700479452662280997	work1	bd3d93a02952d3d4

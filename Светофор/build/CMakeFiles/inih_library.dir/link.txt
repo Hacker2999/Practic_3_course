@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinih_library.a "CMakeFiles/inih_library.dir/inih-master/ini.c.o" "CMakeFiles/inih_library.dir/inih-master/cpp/INIReader.cpp.o"
+/usr/bin/ranlib libinih_library.a

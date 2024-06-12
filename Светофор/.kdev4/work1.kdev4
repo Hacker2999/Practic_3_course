@@ -1,0 +1,38 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\n\x00w\x00o\x00r\x00k\x001)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Основная система=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/artem/projects/work1/build
+Build Type=Debug
+CMake Binary=/snap/bin/cmake
+CMake Executable=/snap/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Основная система
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=work1
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\n\x00w\x00o\x00r\x00k\x001\x00\x00\x00\n\x00w\x00o\x00r\x00k\x001)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/artem/projects/work1
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Kill Before Executing Again=4194304
+Project Target=work1,work1
+Use External Terminal=true
+Working Directory=
+isExecutable=false

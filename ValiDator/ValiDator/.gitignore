@@ -1,0 +1,10 @@
+
+/build
+
+/Testing
+
+/.vscode
+
+/header_only
+
+*.tar.gz
